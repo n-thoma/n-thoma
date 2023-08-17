@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Nathaniel Thoma!
+- 😁 Also Known As @n-thoma on GitHub and Gringo Loco Jr. in informal settings
+- 👀 I’m interested in Artificial Intelligence/Machine Learning, Virtual Reality, Computer Graphics, and Video Game Development
+- 🌱 I’m currently learning C/C++ and Python!
+- 🏫 Enrolled in DigiPen Institute of Technology
+- 📚 Pursuing a BS in Computer Science and Real-Time Interactive Simulation
+- 📫 How to reach me:
+  - Email: nthoma3851@gmail.com
